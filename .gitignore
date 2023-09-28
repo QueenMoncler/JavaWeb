@@ -17,6 +17,8 @@ build/
 *.iml
 *.ipr
 out/
+target
+target/
 
 ### Android Studio ###
 local.properties
