@@ -19,6 +19,7 @@ build/
 out/
 target
 target/
+target/classes/org/example
 
 ### Android Studio ###
 local.properties
