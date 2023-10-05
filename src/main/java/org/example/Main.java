@@ -8,5 +8,7 @@ public class Main {
         final var server = new Server();
         server.listen(PORT);
 
+        System.out.println("hello");
+
     }
 }
